@@ -1,16 +1,37 @@
-### Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.pexels.com/photos/1554766/pexels-photo-1554766.jpeg?auto=compress&cs=tinysrgb&w=600">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.pexels.com/photos/1554766/pexels-photo-1554766.jpeg?auto=compress&cs=tinysrgb&w=600">
+ <img alt="YOUR-ALT-TEXT" src="https://images.pexels.com/photos/1554766/pexels-photo-1554766.jpeg?auto=compress&cs=tinysrgb&w=600">
+</picture>
 
-<!--
-**Amandalla/Amandalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Welcome to the beginning of the road untraveled
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there,
+this is Amanda and it's great that you stopped by!
+
+I am currently working on paving my way into software development and I am looking forward to:
+
+ 💻 finding my first role as a Java developer
+ 
+ 🏆 collaborating on pro-bono projects
+ 
+ 🧠 expanding knowledge and experience via connecting with people of similar interest
+ 
+<details>
+<summary>My primary language</summary>
+<br>
+✨ Java ✨
+</br>
+</details>
+
+#
+<details>
+<summary>Currently have my mind set on</summary>
+<br>
+📚 Finishing my Java medior course  
+</br>
+<br>
+💭 Learning Spring Boot
+</br>
+</details>
