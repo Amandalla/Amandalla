@@ -12,7 +12,7 @@ this is Amanda and it's great that you stopped by!
 
 I am currently working on paving my way into software development and I am looking forward to:
 
- 💻 finding my first role as a Java developer
+ 💻 finding the best role to thrive as a Java developer
  
  🏆 collaborating on pro-bono projects
  
@@ -28,9 +28,6 @@ I am currently working on paving my way into software development and I am looki
 #
 <details>
 <summary>Currently have my mind set on</summary>
-<br>
-📚 Finishing my Java medior course  
-</br>
 <br>
 💭 Learning Spring Boot
 </br>
